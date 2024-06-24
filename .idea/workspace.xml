@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a51951b-e148-4bd7-b19f-364a81121b1f" name="Changes" comment="new game">
+    <list default="true" id="5a51951b-e148-4bd7-b19f-364a81121b1f" name="Changes" comment="construction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -109,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719234505476</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="construction">
+      <option name="closed" value="true" />
+      <created>1719235189448</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719235189448</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new game" />
-    <option name="LAST_COMMIT_MESSAGE" value="new game" />
+    <MESSAGE value="construction" />
+    <option name="LAST_COMMIT_MESSAGE" value="construction" />
   </component>
 </project>
